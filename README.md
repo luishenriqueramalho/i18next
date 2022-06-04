@@ -1,5 +1,5 @@
 <h1 align="center">
-    PRICE FUEL
+    I18next React Native
 </h1>
 
 <p align="center">
